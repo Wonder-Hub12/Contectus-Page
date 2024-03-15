@@ -18,7 +18,10 @@ body {
 
 
 
-
+.hi{
+  position: absolute;
+  size: 10px;
+}
 
 
 .main_container {
